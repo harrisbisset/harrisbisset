@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harrisbisset
-- 👀 Interested in anything realted to MTG, fun ideas
+- 👀 Interested in anything related to MTG, fun ideas
 - 🌱 Learning scratch right now
 - 💞️ Looking for (people who) love (to collaborate on programming projects)
 - 📫 harrisbisset@gmail.com
